@@ -34,3 +34,8 @@ body {
 .block--gray {
   background-color: gray;
 }
+
+.whiteText{
+  color:white;
+  translateY(-30%)
+}
